@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "594365022920",
+    "project_id": "bloctest-beaf2",
+    "storage_bucket": "bloctest-beaf2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:594365022920:android:ca338e15624a13ff0f9bfd",
+        "android_client_info": {
+          "package_name": "com.example.bloctest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "594365022920-0cq4jo1db91rkpaks8m7em5brsggvpc0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bloctest",
+            "certificate_hash": "ae01fa0e0bd502d32497e9e16b45a5ad7bb3b94a"
+          }
+        },
+        {
+          "client_id": "594365022920-tac9nikc1nq7ufs8158rtvfpebd3pv6b.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH_MOV4QpOuXivcPfjNLJ8-hHggHRwxWI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "594365022920-tac9nikc1nq7ufs8158rtvfpebd3pv6b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
